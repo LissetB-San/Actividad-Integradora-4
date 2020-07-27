@@ -8,7 +8,9 @@ Lisset Botello Santiago.
 
 ## Planteamiento del problema 
 En esta actividad se explora la técnica de detección de objetos utilizando la red neuronal You Only Look Once.
-YOLO fue entrenada para reconocer un total de 80 objetos. La base de datos que se utilizó para entrenar la red neuronal fue la de COCO: https://cocodataset.org/#homeEl objetivo será diseñar un detector de objetos personalizado,al re entrenar la red YOLO para identificar un objeto diferente a lospresentes en labase de datos COCO.
+YOLO fue entrenada para reconocer un total de 80 objetos. La base de datos que se utilizó para entrenar la red neuronal fue la de COCO: https://cocodataset.org/#home
+
+El objetivo será diseñar un detector de objetos personalizado,al re entrenar la red YOLO para identificar un objeto diferente a lospresentes en labase de datos COCO.
 
 
 
