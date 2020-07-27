@@ -12,7 +12,7 @@ YOLO fue entrenada para reconocer un total de 80 objetos. La base de datos que s
 
 El objetivo será diseñar un detector de objetos personalizado,al re entrenar la red YOLO para identificar un objeto diferente a lospresentes en labase de datos COCO.
 
-#Resultados
+# Resultados
 Reconocimiento de tacos como resultado del entrenamiento de YOLO.
  <p align="center">
   <img src="https://github.com/LissetB-San/Actividad-Integradora-4/blob/master/resultado.jpg">
