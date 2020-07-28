@@ -14,7 +14,7 @@ El objetivo es diseñar un detector de objetos personalizado, al reentrenar la r
 ## Desarrollo del código
 De acuerdo con lo estipulado anteriormente se decidió realizar el entrenamiento para la detección de **tacos**, siendo éste nuestro objeto personalizado.
 
-Los pasos para realizar el entrenamiento fueron con base al tutorial de https://www.youtube.com/playlist?list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN. Al ver que el entrenamiento tenía una duración de 10 horas decidimos interrumpirlo en 4 horas solamente, ya que veíamos que el average loss no bajaba y se mantenía constante.
+Los pasos para realizar el entrenamiento fueron con base al tutorial de https://www.youtube.com/playlist?list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN. Al ver que el entrenamiento tenía una duración de 10 horas decidimos interrumpirlo en 4 horas solamente, ya que notamos que el average loss no bajaba y se mantenía constante.
 
 ## Codigo
 Como ya lo mencionamos, en esta ocasión utilizaremos utilizaremos *Darknet* y *Yolov4* para generar predicciones de una categoría nueva a nuestra elección. Para comenzar primero clonaremos *Darknet* del repositorio de *AlexeyAB's* utilizando el siguiente código.
